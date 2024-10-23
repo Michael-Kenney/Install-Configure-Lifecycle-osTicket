@@ -6,7 +6,7 @@
 This tutorial outlines the installation, the configuration and the Lifecycle of the open-source help desk ticketing system, osTicket. This project is inspired by the Ticketing Systems Lab in the Course Careers - Information Technology Course.
 </p>
 The purpose of this lab is to experience a ticketing system in its entirety - from inception to retirement. 
-Throughout this lab, we are able to experience the process from the perspective of the admin, the support and the end user. 
+Throughout this lab, we are able to experience the process from the perspective of the Admin, the Help Desk Agent and the End User. 
 <br />
 
 
