@@ -3,14 +3,22 @@
 </p>
 
 <h1>osTicket : The Installation, Configuration and Lifecycle of a Ticketing System</h1>
-This tutorial outlines the installation, the configuration and the Lifecycle of the open-source help desk ticketing system osTicket. This project is inspired by my lab with Course Careers.<br />
+This tutorial outlines the installation, the configuration and the Lifecycle of the open-source help desk ticketing system, osTicket. This project is inspired by the Ticketing Systems Lab in the Course Careers - Information Technology Course.
 </p>
+THe purpose of this lab is to experience a ticketing system in its entirety - from inception to retirement. 
+Throughout this lab, we are able to experience the process from the perspective of the admin, the support and the end user. 
+<br />
+
 
 <h2>Hardware, Software and Technologies Used</h2>
 
-- Microsoft Azure (Virtual Machines/Compute)
-- Remote Desktop
-- Internet Information Services (IIS)
+- Host Computer - MacOS
+- Environment and Computation - Microsoft Azure
+- Virtual Machines and Resource Groups - Microsoft Azure
+- Remote Desktop - Windows App
+- VM OS - Windows 10
+- Ticketing - osTicket
+- 
 
 
 
