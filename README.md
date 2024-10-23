@@ -5,7 +5,7 @@
 <h1>osTicket : The Installation, Configuration and Lifecycle of a Ticketing System</h1>
 This tutorial outlines the installation, the configuration and the Lifecycle of the open-source help desk ticketing system, osTicket. This project is inspired by the Ticketing Systems Lab in the Course Careers - Information Technology Course.
 </p>
-THe purpose of this lab is to experience a ticketing system in its entirety - from inception to retirement. 
+The purpose of this lab is to experience a ticketing system in its entirety - from inception to retirement. 
 Throughout this lab, we are able to experience the process from the perspective of the admin, the support and the end user. 
 <br />
 
@@ -18,6 +18,10 @@ Throughout this lab, we are able to experience the process from the perspective 
 - Remote Desktop - Windows App
 - VM OS - Windows 10
 - Ticketing - osTicket
+- Windows Powershell
+- MacOS Terminal
+- Github Markdown Language
+- Windows Server 2022
 - 
 
 
